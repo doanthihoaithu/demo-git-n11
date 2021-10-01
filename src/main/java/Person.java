@@ -1,3 +1,3 @@
 public class Person {
-    private String name = "Thu";
+    private String name = "NoName";
 }
